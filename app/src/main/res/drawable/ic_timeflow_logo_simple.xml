@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Cercle extérieur -->
+    <path
+        android:fillColor="#000000"
+        android:strokeColor="#FF6B35"
+        android:strokeWidth="2"
+        android:pathData="M24,4 C33,4 40,11 40,20 C40,29 33,36 24,36 C15,36 8,29 8,20 C8,11 15,4 24,4 Z"/>
+
+    <!-- Cercle intérieur -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M24,12 C28,12 31,15 31,19 C31,23 28,26 24,26 C20,26 17,23 17,19 C17,15 20,12 24,12 Z"/>
+
+    <!-- Aiguille des heures -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M24,19 L28,19 L28,21 L24,21 Z"/>
+
+    <!-- Aiguille des minutes -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M24,19 L24,15 L23,15 L23,19 Z"/>
+
+    <!-- Point central -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M24,20 C24.5,20 25,20.5 25,21 C25,21.5 24.5,22 24,22 C23.5,22 23,21.5 23,21 C23,20.5 23.5,20 24,20 Z"/>
+
+    <!-- Flèche Flow -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M24,28 L20,34 L24,40 L28,34 Z"/>
+</vector>

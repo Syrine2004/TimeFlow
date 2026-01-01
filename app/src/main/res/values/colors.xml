@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Couleurs principales - Thème Futuriste Noir/Orange -->
+    <color name="primary">#FF6B35</color>
+    <color name="primaryDark">#CC5529</color>
+    <color name="primaryLight">#FF8C5A</color>
+    <color name="secondary">#FFB84D</color>
+    <color name="accent">#FF6B35</color>
+    
+    <!-- Couleurs de base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Thème Sombre Futuriste -->
+    <color name="background">#0A0A0A</color>
+    <color name="backgroundDark">#000000</color>
+    <color name="backgroundLight">#1A1A1A</color>
+    <color name="cardBackground">#151515</color>
+    <color name="cardElevated">#1F1F1F</color>
+    
+    <!-- Texte -->
+    <color name="textDark">#FFFFFF</color>
+    <color name="textMedium">#CCCCCC</color>
+    <color name="textLight">#999999</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textOrange">#FF6B35</color>
+    
+    <!-- Accents Néon -->
+    <color name="neonOrange">#FF6B35</color>
+    <color name="neonOrangeGlow">#FF8C5A</color>
+    <color name="neonYellow">#FFB84D</color>
+    <color name="neonBlue">#00D4FF</color>
+    
+    <!-- Gradient colors -->
+    <color name="gradientStart">#FF6B35</color>
+    <color name="gradientEnd">#FF8C5A</color>
+    
+    <!-- Success & Error -->
+    <color name="success">#00FF88</color>
+    <color name="error">#FF3366</color>
+    <color name="warning">#FFB84D</color>
+
+</resources>
