@@ -34,9 +34,10 @@ Consultez les fichiers suivants pour plus de détails :
 
 ## 👥 Équipe
 
-Projet développé par une équipe de 6 membres, chaque membre étant responsable de différentes interfaces et fonctionnalités.
+Projet développé par syrine boulabiar
+
 
 ## 📄 Licence
 
-Projet académique - 2024
+Projet académique - 2025
 
